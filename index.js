@@ -23,7 +23,7 @@ for (let i = startNum; i <= finishNum; i++){
     if (isSimple(i)) {
         colorNum(i)
     } else {
-        console.log('No correct ranges')
+        console.log('No correct range')
     }
 }
 
